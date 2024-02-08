@@ -10,3 +10,16 @@
     border-radius: 0;
     outline: none; /* Для видалення обводки при фокусі */
 }
+
+.retreat{
+    margin-top: 15px;
+    padding: 50px;
+}
+
+.retreat1{
+padding: 50px;
+}
+
+.retreat2{
+    margin-top: 50px;
+}
